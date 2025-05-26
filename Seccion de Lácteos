@@ -20,3 +20,47 @@
           <li>El carrito está vacío</li>
         </ul>
       </section>
+
+<script>
+        const productos = [
+    {
+        id: 1,
+        nombre: "Yogur natural Yogurisimo",
+        precio: 1500,
+        imagen: "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRFJy1zId1L7kSU3_2cUyTTe93eFVSaYvQcR6S-X_VhTJKtNBD-0fdGQpbiA4QX4PxAOTX-nkMDtFbZj8MR8jSOGq9nWaLIVnKeWtiiMQBoPCNhuPJsDnzA"
+    },
+    {
+        id: 2,
+        nombre: "Leche entera La Serenisima",
+        precio: 2200,
+        imagen:"https://acdn-us.mitiendanube.com/stores/093/780/products/serenisima-clasica-751-95fea92d1a27f8e9ab15710914346750-640-0.png"
+    },
+    {
+        id: 3,
+        nombre: "Queso crema La Serenisima",
+        precio: 4920,
+        imagen: "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTdlh60HvUpU9lK1sU2kQREjydmQX8fdZsbrtj9ToQpa_tL-HDjPht5KtCe5Gs7p6NJr7yKA2jw53PTROdRHWIizK0oCBl8omzHlz5lWW-n-3RDc4JPjftijw"
+    },
+    {
+        id: 4,
+        nombre: "Mantequilla La Serenisima",
+        precio: 4500,
+        imagen: "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTVugFjVJsnIArrzO_5KXO6io8Q1USzYsLE8lhzCG9vWRrfoF5i30r-rObnd8Yr0g40GhhWCr-RdMOrhx8JO9N4AOPGPAug08XHlVYDrNvMDDz4gdLhv8EJOQ"
+    },
+    {
+        id: 5,
+        nombre: "Yougur bebible La Serenisima",
+        precio: 3900,
+        imagen: "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS-iTf3KcnWqKs3T-VA7fa0JHNDfL8WHyIEad7pG0GMuMDQWCbDsvv1J9iARXBBH-2xfYJqz3EXjiulIvupjxGFM2kzgMtRbF6jPYojACwRbVdsSQsszwNxHg"
+    },
+
+
+    {
+        id: 6,
+        nombre: "Queso Port Salut La Serenisima",
+        precio: 8922,
+        imagen: "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS2NsChUIi4qa2Bpx1K-o1pIzBEa47EWQh6vnqPcKC9Jez9pboBO5Ar2ZJIvCWNE3K7WykshMs9dtkNtT76o-7RedqUz5f_2Spf3wOw_YzUs6S_ZXMecevolA"
+    }
+
+
+];
